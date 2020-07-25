@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowers.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <!--<Image Source="logoWSTowers.jpeg" Margin="0,150, 0, 30" HorizontalOptions="Center" WidthRequest="200"/>-->
+            <Label Text="Login" HorizontalOptions="Center" Margin="0, 200, 0, 20" FontSize="20"/>
+            <StackLayout Orientation="Horizontal" Margin="5, 10" HorizontalOptions="Center">
+                <Image Source="baseline_person_black_48dp.png" WidthRequest="25"/>
+                <Entry Placeholder="Usuario" x:Name="txtUsuario" WidthRequest="250"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="5, 10" HorizontalOptions="Center">
+                <Image Source="baseline_lock_black_48dp.png" WidthRequest="25"/>
+                <Entry Placeholder="Senha" x:Name="txtSenha" IsPassword="True" WidthRequest="250"/>
+            </StackLayout>
+            <Button Text="Login" 
+                    WidthRequest="250" 
+                    BackgroundColor="#E8BB08" 
+                    TextColor="Black" 
+                    Margin="0, 20, 0, 5" 
+                    HorizontalOptions="Center" 
+                    Clicked="BtnLogin_Clicked" 
+                    CornerRadius="10"/>
+            <Button Text="Não tem uma conta? Cadastrar-se." 
+                    TextColor="Blue" 
+                    BackgroundColor="Transparent" 
+                    HorizontalOptions="Center" 
+                    Margin="0, 10, 0, 10" 
+                    WidthRequest="250" 
+                    FontSize="12"
+                    Clicked="BtnCadastro_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,138 @@
+C:\Users\joao_\source\repos\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.deps.json
+C:\Users\joao_\source\repos\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\source\repos\WSTowers\WSTowers\bin\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\source\repos\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csprojAssemblyReference.cache
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfoInputs.cache
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfo.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SobreView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\ItemSelecionadoView.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LancheDetailsPage.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoConfirmacao.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoPage.xaml.g.cs
+C:\Users\joao_\source\repos\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CarrinhoView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.deps.json
+C:\Users\Israel\Desktop\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.dll
+C:\Users\Israel\Desktop\WSTowers\WSTowers\bin\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\Israel\Desktop\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csprojAssemblyReference.cache
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CarrinhoView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\ItemSelecionadoView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LancheDetailsPage.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoConfirmacao.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoPage.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SobreView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfoInputs.cache
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfo.cs
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.dll
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\Israel\Desktop\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csprojAssemblyReference.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CarrinhoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\ItemSelecionadoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LancheDetailsPage.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoConfirmacao.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoPage.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SobreView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfoInputs.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfo.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csproj.CoreCompileInputs.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.deps.json
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\bin\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\OneDrive\Área de Trabalho\ProjetoFinalSenai2Semestre\Final\WSTowers\WSTowers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.deps.json
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\bin\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csprojAssemblyReference.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CarrinhoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\ItemSelecionadoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LancheDetailsPage.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoConfirmacao.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LanchePedidoPage.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SobreView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfoInputs.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfo.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csproj.CoreCompileInputs.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.deps.json
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\bin\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csprojAssemblyReference.cache
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CarrinhoView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\ItemSelecionadoView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LancheDetailsPage.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfoInputs.cache
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfo.cs
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\source\repos\Exercicio\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PagamentoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.deps.json
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\bin\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\bin\Debug\netstandard2.0\WSTowers.pdb
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csprojAssemblyReference.cache
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\CarrinhoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\ItemSelecionadoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LancheDetailsPage.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PagamentoView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfoInputs.cache
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.AssemblyInfo.cs
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.csproj.CoreCompileInputs.cache
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.dll
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\ref\WSTowers.dll
+C:\Users\joao_\OneDrive\Documentos\Entrega_2Termo\WSTowers\WSTowers\obj\Debug\netstandard2.0\WSTowers.pdb

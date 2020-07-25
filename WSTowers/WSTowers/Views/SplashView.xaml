@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowers.Views.SplashView">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Spacing="20">
+            
+            <StackLayout>
+                <Image Source="logoWSTowers.jpeg" 
+                        Margin="0, 220, 0, 0" 
+                        HorizontalOptions="Center" 
+                        WidthRequest="370"/>
+
+                <Label Text="Quiosque e Bar do seu estádio favorito." 
+                        TextColor="Gray"
+                        Padding="110, 0, 0, 0"
+                        FontSize="16"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" 
+                         VerticalOptions="EndAndExpand" 
+                         Margin="20, 0, 20, 30">
+                <StackLayout Spacing="20"
+                             HorizontalOptions="StartAndExpand">
+                    <Label Text="Realização" 
+                           HorizontalOptions="CenterAndExpand" 
+                           TextColor="Gray"
+                           FontSize="20"/>
+
+                    <Image Source="logoWSTowers.jpeg" 
+                           WidthRequest="150" 
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"/>
+                </StackLayout>
+                <StackLayout Spacing="20"
+                             HorizontalOptions="EndAndExpand">
+                    <Label Text="Realização" 
+                           HorizontalOptions="CenterAndExpand" 
+                           TextColor="Gray"
+                           FontSize="20"/>
+
+                    <Image Source="sp.jpeg" 
+                           WidthRequest="150" 
+                           HorizontalOptions="Center"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

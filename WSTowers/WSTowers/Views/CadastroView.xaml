@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowers.Views.CadastroView">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Cadastro" FontSize="20" Margin="0, 150, 0, 20" HorizontalOptions="Center"/>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="5, 10">
+                <Image Source="baseline_person_black_48dp.png" WidthRequest="25" />
+                <Entry Placeholder="Usuario" ClearButtonVisibility="WhileEditing" x:Name="txtUsuario" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="230" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="5, 10">
+                <Image Source="baseline_email_black_48dp.png" WidthRequest="25"/>
+                <Entry Placeholder="Email:" ClearButtonVisibility="WhileEditing" x:Name="txtEmail" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="230"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="5, 10">
+                <Image Source="baseline_lock_black_48dp.png" WidthRequest="25"/>
+                <Entry IsPassword="True" Placeholder= "Senha:" ClearButtonVisibility="WhileEditing" x:Name="txtSenha" VerticalOptions="Start"  HorizontalOptions="Center" WidthRequest="230" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="5, 10">
+                <Image Source="baseline_lock_black_48dp.png" WidthRequest="25"/>
+                <Entry IsPassword="True" Placeholder= "Repetir senha" ClearButtonVisibility="WhileEditing" x:Name="txtRepSenha" VerticalOptions="Start"  HorizontalOptions="Center" WidthRequest="230" />
+            </StackLayout>
+
+            <Button Text="Cadastrar-se" HorizontalOptions="Center" Margin="0, 20, 0, 0" Padding="10, 0, 10, 0" CornerRadius="10" BackgroundColor="#E8BB08" TextColor="Black" WidthRequest="230" Clicked="btnCadastro_Clicked"/>
+
+            <Button Text="Login" TextColor="Blue" HorizontalOptions="Center" VerticalOptions="EndAndExpand" Margin="0, 0, 0, 50" BackgroundColor="Transparent" Clicked="btnLogin_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

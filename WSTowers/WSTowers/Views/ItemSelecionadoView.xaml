@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowers.Views.ItemSelecionadoView">
+    <ContentPage.Content>
+        <StackLayout Margin="10" BackgroundColor="White">
+            <Label x:Name="LblNome" Text="{Binding Nome}" HorizontalOptions="Center" Margin="0,20,0,20" FontSize="Large" TextColor="Black"/>
+            <Image Source="{Binding Img}" HorizontalOptions="Center" HeightRequest="200"/>
+            <Label Text="{Binding Descricao}" HorizontalOptions="Center" FontSize="Medium" TextColor="Gray"/>
+            <Label x:Name="LblValor" Text="{Binding Valor}" HorizontalOptions="End" Margin="0,0,30,0" FontSize="Large" TextColor="Green"/>
+
+            <StackLayout Spacing="10" HorizontalOptions="Center" Margin="0,10,0,10" Orientation="Horizontal">
+                <Button Clicked="Button_Clicked"
+                    Text="-" TextColor="Black" CornerRadius="0" FontSize="Large"/>
+                <Label x:Name="LblQuantidade" VerticalOptions="Center" Text="1" FontSize="Large" TextColor="Black" Margin="10,0,10,0"/>
+                <Button Clicked="Button_Clicked"
+                    Text="+" TextColor="Black" CornerRadius="0" FontSize="Large"/>
+            </StackLayout>
+            <Button x:Name="BtnAdcionar" Text="Adicionar no carrinho" BackgroundColor="#E8BB08" TextColor="White" Clicked="BtnAdcionar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

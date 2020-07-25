@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowers.Views.PagamentoView">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Spacing="70">
+                <StackLayout Padding="10" >
+                    <Image Source="baseline_person_black_48dp.png" WidthRequest="200" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="CenterAndExpand">
+
+
+
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="baseline_person_black_48dp.png" WidthRequest="15" />
+                        <Entry Placeholder="Nome" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="baseline_person_black_48dp.png" WidthRequest="15" />
+                        <Entry Placeholder="Sobrenome" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="baseline_email_black_48dp.png" WidthRequest="15" />
+                        <Entry Placeholder="Numero do cartão" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="baseline_email_black_48dp.png" WidthRequest="15" />
+                        <Entry Placeholder="Código de segurança" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="baseline_email_black_48dp.png" WidthRequest="15" />
+                        <Entry Placeholder="Data de validade (MM/AA)" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="baseline_email_black_48dp.png" WidthRequest="15" />
+                        <Entry Placeholder="Numero do acento" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                    </StackLayout>
+
+                    <StackLayout Padding="0,30,0,0">
+                        <Button Text="Confirmar" BackgroundColor="#ebbf21" TextColor="White" CornerRadius="7" Clicked="Button_Clicked"></Button>
+                    </StackLayout>
+                </StackLayout>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

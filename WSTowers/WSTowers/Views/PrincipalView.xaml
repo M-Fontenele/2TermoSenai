@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowers.Views.PrincipalView"
+             MasterBehavior="Popover">
+    <MasterDetailPage.Master>
+        <ContentPage Padding="10" BackgroundColor="Gray" Title="Master">
+            <ContentPage.Content>
+                <StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Button x:Name="BtnFoto" Text="M" Padding="10" FontSize="20" BackgroundColor="Orange" CornerRadius="100"/>
+                        <Label x:Name="LblUser" Text="Matheus" FontSize="20" VerticalOptions="Center"/>
+                    </StackLayout>
+                    <Label x:Name="LblEmail" Text="emailTeste@gmail.com" FontSize="15"/>
+                    <Button Text="Home" BackgroundColor="Transparent" Clicked="btnHome_Clicked" Margin="0, 10, 0, 0"/>
+                    <Button Text="Carrinho" BackgroundColor="Transparent" Clicked="btnCarrinho_Clicked" Margin="0, 10, 0, 0"/>
+                    <Button Text="Sair" BackgroundColor="Transparent" Clicked="btnSair_Clicked" Margin="0, 10, 0, 0"/>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Master>
+</MasterDetailPage>

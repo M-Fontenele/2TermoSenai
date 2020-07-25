@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WSTowers.LancheDetailsPage"
+             Title="{Binding Nome}">
+    <ContentPage.Content>
+
+        <StackLayout Padding="10">
+            <Image Source="{Binding Img}" HeightRequest="100" WidthRequest="100"/>
+            <Label Text="{Binding Descricao}" HorizontalOptions="Center" FontSize="Medium" TextColor="Gray"/>
+                <TableView>
+                <TableRoot>
+                    <TableSection Title="Acréscimos">
+                        <SwitchCell Text="{Binding TextoMaionese}" On="{Binding TemMaionese, Mode=TwoWay}"></SwitchCell>
+                        <SwitchCell Text="{Binding TextoBacon}" On="{Binding TemBacon, Mode=TwoWay}"></SwitchCell>
+                        <SwitchCell Text="{Binding TextoOvo}" On="{Binding TemOvo, Mode=TwoWay}"></SwitchCell>
+                        <SwitchCell Text="{Binding TextoCheddar}" On="{Binding TemCheddar, Mode=TwoWay}"></SwitchCell>
+                        <SwitchCell Text="{Binding TextoCatupiry}" On="{Binding TemCatupiry, Mode=TwoWay}"></SwitchCell>
+                        <TextCell Text="{Binding ValorTotal}" TextColor="Black" ></TextCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+
+            <Button x:Name="btnProximo" Text="Próximo" Clicked="btnProximo_Clicked" VerticalOptions="End" TextColor="White" BackgroundColor="#E8BB08" FontAttributes="Bold"></Button>
+            <Label x:Name="LblAviso" Text="*Esse produto está momentaneamente indisponivel!" TextColor="Red" HorizontalOptions="Center" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
